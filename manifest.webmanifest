@@ -1,0 +1,12 @@
+{
+  "name": "Dragones del Carmen — Control de Pedidos",
+  "short_name": "Dragones",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07110b",
+  "theme_color": "#07110b",
+  "description": "Control personal de pedidos, servicios, metas e ingresos.",
+  "icons": [
+    {"src":"logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
